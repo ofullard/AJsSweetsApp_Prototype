@@ -1,2 +1,2 @@
 # AJsSweetsApp_Prototype
- Figma project depicting potential mobile application design and application flow
+ Figma project depicting potential mobile application design and application flow created for fictional company AJs Sweets.
