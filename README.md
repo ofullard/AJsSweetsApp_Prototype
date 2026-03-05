@@ -1,10 +1,17 @@
 # AJsSweets 
 
-https://github.com/user-attachments/assets/c5547b2c-de61-471c-96fa-a05c59423492
 
 Mobile App Prototype
 
 A comprehensive Figma project depicting potential mobile application design and application flow created for fictional company AJ's Sweets.
+
+## 📸 Gallery and Demo
+
+https://github.com/user-attachments/assets/97a78bf1-daaa-471e-bb70-e67c1372f61b
+
+View additional screenshots and app flow demonstrations in the respective directories:
+- `/Screenshots` - UI screenshots and design mockups
+- `/AppFlowVideo` - Application flow demonstrations
 
 ## 📱 Project Overview
 
@@ -52,13 +59,7 @@ The mobile app prototype includes:
 - Contact and location information
 - Responsive mobile-first design
 
-## 📸 Gallery and Demo
 
-https://github.com/user-attachments/assets/97a78bf1-daaa-471e-bb70-e67c1372f61b
-
-View additional screenshots and app flow demonstrations in the respective directories:
-- `/Screenshots` - UI screenshots and design mockups
-- `/AppFlowVideo` - Application flow demonstrations
 
 ## 📞 Contact Information
 
